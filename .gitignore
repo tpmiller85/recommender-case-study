@@ -1,0 +1,13 @@
+*DS_Store*
+*.py[cod]
+*.ipynb_checkpoints
+*__pycache__/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+*ml-latest/
+*ml-1m/
+Thumbs.db
